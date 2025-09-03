@@ -1,8 +1,9 @@
-I'm Anthony a doctor and clinical engineer working at the intersection between clinical / technical / product
-- Suvera - Medical Director and Founding hire
-- babylon health Head of Clinical AI
-- General Practitioner
+I'm a product-focussed builder working at the intersection of clinical reasoning, technical systems, and scalable product.
 
-[My Personal Site](https://www.anthonylangham.com)
+I prototype fast, ship iteratively, and thrive in ambiguity. My work spans hands on engineering, product strategy, and clinical insight. I help teams turn messy, high-entropy problems into simple, useful tools by translating disorder into logic and turning ideas into working products. 
+
+I design for real users and collaborate across disciplines to get things shipped.
+
+[Personal Site](https://www.anthonylangham.com)
   
 [Linkedin](https://www.linkedin.com/in/dranthonylangham)
